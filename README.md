@@ -10,13 +10,12 @@ This is a online car rental management system for LEVEL 2 IAD module mini_projec
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* You need XAMMP or WAMP server
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Clone your project to XAMMP/htdocs folder or WAMMP/www floder
+* Create a database in phpmyadmin name (rentcar) and import rentcar.sql file to it
 
 ### Executing program
 
