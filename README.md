@@ -1,10 +1,10 @@
 # Mini Project
 
-Simple overview of use/purpose.
+Car rental management system
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is a online car rental management system for LEVEL 2 IAD module mini_project
 
 ## Getting Started
 
