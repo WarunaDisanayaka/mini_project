@@ -1,4 +1,4 @@
-# Project Title
+# Mini Project
 
 Simple overview of use/purpose.
 
