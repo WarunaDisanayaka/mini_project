@@ -25,3 +25,10 @@ This is a online car rental management system for LEVEL-2 Internet Application D
 * Start XAMMP or WAMMP server 
 * In any browser type ```localhost/YOUR ROOT FOLDER NAME```
 * Make sure your computer connected to the internet
+
+
+### USER Credentials and Passwords
+
+* For Login to the ```Admin`` panel type in browser localhost/Root Folder Name/admin
+* Admin USERNAME ```admin```
+* Admin PASSWORD ```admin```
