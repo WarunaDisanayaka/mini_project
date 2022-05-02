@@ -32,3 +32,5 @@ This is a online car rental management system for LEVEL-2 Internet Application D
 * For Login to the ```Admin`` panel type in browser localhost/Root Folder Name/admin
 * Admin USERNAME ```admin```
 * Admin PASSWORD ```admin```
+
+* You can create ```user accounts`` with in the system
