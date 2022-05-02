@@ -16,13 +16,13 @@ This is a online car rental management system for LEVEL 2 IAD module mini_projec
 
 * Clone your project to XAMMP/htdocs folder or WAMMP/www floder
 * Create a database in phpmyadmin name ```rentcar``` and import ```rentcar.sql``` file to it
-* If your phpmysql has a unique USERNAME and PASSWORD please changes below files ```$con=mysqli_connect("localhost","YOUR USERNAME","YOUR PASSWORD","rentcar");```
+* If your phpmysql has a unique USERNAME and PASSWORD please change this code ```$con=mysqli_connect("localhost","YOUR USERNAME","YOUR PASSWORD","rentcar");``` in below files
    * ```inc/connection.inc.php```
    * ```admin/includes/connection.inc.php```
 
 ### Executing program
 
-* How to run the program
+* In any browser type ```localhost/YOUR ROOT FOLDER NAME```
 * Step-by-step bullets
 ```
 code blocks for commands
