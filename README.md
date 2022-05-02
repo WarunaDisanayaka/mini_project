@@ -21,6 +21,7 @@ This is a online car rental management system for LEVEL-2 Internet Application D
    * ```admin/includes/connection.inc.php```
 
 ### Executing program
-
+ 
+* Start XAMMP or WAMMP server 
 * In any browser type ```localhost/YOUR ROOT FOLDER NAME```
 * Make sure your computer connected to the internet
