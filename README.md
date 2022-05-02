@@ -15,7 +15,7 @@ This is a online car rental management system for LEVEL 2 IAD module mini_projec
 ### Installing
 
 * Clone your project to XAMMP/htdocs folder or WAMMP/www floder
-* Create a database in phpmyadmin name (rentcar) and import rentcar.sql file to it
+* Create a database in phpmyadmin name ```rentcar``` and import rentcar.sql file to it
 
 ### Executing program
 
